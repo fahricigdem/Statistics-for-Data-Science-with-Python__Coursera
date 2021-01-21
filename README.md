@@ -1,8 +1,10 @@
-# Statistics-for-Data-Science-with-Python__Coursera
+# Statistics for Data Science with Python (Coursera)
+
 Basic principles of statistical methods and procedures used for data analysis
 
 
 ## Hypothesis Testing
+
 Use the norm.cdf() function in the scipy.stats library to find the standardized (z-score) value. In cases where we are looking for the area to the right of the curve, we will remove the results above from 1. Remember to import scipy.stats
 
 Levene's test for equal variance: Levene's test is a test used to check for equality of variance among groups. We use the scipy.stats.levene() from the scipy.stats library.
