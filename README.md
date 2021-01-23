@@ -2,6 +2,8 @@
 
 Basic principles of statistical methods and procedures used for data analysis
 
+My Assignment : https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/47f9eb12-40a6-43d7-9476-e805ed9c38c1/view?access_token=ac3f53221ecdddba98684c540a0e4151f1913229f9af73f438bc2df4f9ab029c
+
 
 ## Hypothesis Testing
 
