@@ -1,4 +1,4 @@
-# Statistics for Data Science with Python (Coursera)
+# Statistics for Data Science with Python (IBM-Coursera)
 
 Basic principles of statistical methods and procedures used for data analysis
 
